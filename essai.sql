@@ -1,0 +1,22 @@
+
+select dept_name from  departments;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
